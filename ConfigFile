@@ -1,0 +1,14 @@
+Save File as coursera-dl.conf
+
+--username ""
+--password ""
+--subtitle-language en
+--download-quizzes
+--cauth ""
+
+
+ To obtain CAUTH: 
+>Open Chrome Developer tools
+>Application Tab
+>Cookies
+>CAUTH
